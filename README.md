@@ -1,4 +1,9 @@
-## Hi there 👋
+## Cloud & DevSecOps Engineer
+
+Building secure, scalable cloud infrastructure across AWS & GCP.
+
+AWS Certified Solutions Architect
+Terraform • Kubernetes • Cloud Security
 
 <!--
 **wajida-gs/wajida-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
