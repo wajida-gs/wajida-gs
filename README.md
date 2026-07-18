@@ -105,6 +105,12 @@ Here are the focus areas you'll find in my repositories:
 - 🤖 GenAI for Cloud & DevOps Engineering
 - 🏗️ Advanced Terraform Modules & Multi-Cloud Infrastructure
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=wajida-gs&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 💡 Philosophy
 
 > "Secure infrastructure isn't built by chance—it's engineered through automation, consistency, and continuous learning."
