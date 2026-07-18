@@ -84,3 +84,50 @@ Here are the focus areas you'll find in my repositories:
 | 🔐 DevSecOps Labs | IAM, Wiz, Qualys and cloud security best practices | 🚧 In Progress |
 | 🐍 Python Automation | AWS automation and cloud administration scripts | 🚧 In Progress |
 | 🤖 GenAI for DevOps | AI-powered DevOps and cloud engineering experiments | 📚 Learning |
+
+## 🏆 Certifications
+
+| Certification | Status |
+|--------------|--------|
+| 🟠 AWS Certified Solutions Architect – Associate (SAA-C03) | ✅ Certified |
+| 🔄 AWS Solutions Architect – Associate (Recertification) | 📚 In Progress |
+| 🔵 Google Cloud Associate Cloud Engineer (ACE) | 📚 In Progress |
+
+## 🌱 Currently Learning
+
+- ☁️ Google Cloud Platform (Associate Cloud Engineer Certification)
+- ☸️ Kubernetes (Production Workloads, Helm & Troubleshooting)
+- 🔐 DevSecOps & Cloud Security Best Practices
+- 🤖 GenAI for Cloud & DevOps Engineering
+- 🏗️ Advanced Terraform Modules & Multi-Cloud Infrastructure
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wajida-gs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajida-gs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wajida-gs&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/wgscloud/" target="blank">
+<img align="center"
+src="https://skillicons.dev/icons?i=linkedin"
+height="40" />
+</a>
+</p>
+
+## 💼 Open to Opportunities
+
+I'm currently open to opportunities in:
+
+- Cloud Engineering
+- DevSecOps
+- Platform Engineering
+- Site Reliability Engineering (SRE)
+- Cloud Security
