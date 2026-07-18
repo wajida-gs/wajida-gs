@@ -17,6 +17,10 @@ Cloud & DevSecOps Engineer
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wajida-gs&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
 Building secure, scalable cloud infrastructure across AWS & GCP.
 </p>
 
@@ -100,6 +104,10 @@ Here are the focus areas you'll find in my repositories:
 - 🔐 DevSecOps & Cloud Security Best Practices
 - 🤖 GenAI for Cloud & DevOps Engineering
 - 🏗️ Advanced Terraform Modules & Multi-Cloud Infrastructure
+
+## 💡 Philosophy
+
+> "Secure infrastructure isn't built by chance—it's engineered through automation, consistency, and continuous learning."
 
 ## 🤝 Connect With Me
 
