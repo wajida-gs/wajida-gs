@@ -101,17 +101,6 @@ Here are the focus areas you'll find in my repositories:
 - 🤖 GenAI for Cloud & DevOps Engineering
 - 🏗️ Advanced Terraform Modules & Multi-Cloud Infrastructure
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wajida-gs&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajida-gs&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wajida-gs&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="left">
