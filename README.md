@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">Hi 👋, I'm Wajida</h2>
+<h1 align="center">Hi 👋, I'm Wajida</h1>
 
 <h3 align="center">
 Cloud & DevSecOps Engineer
@@ -19,3 +19,12 @@ Cloud & DevSecOps Engineer
 <p align="center">
 Building secure, scalable cloud infrastructure across AWS & GCP.
 </p>
+
+## 👩‍💻 About Me
+
+- ☁️ Cloud & DevSecOps Engineer with **4+ years** of experience building and securing cloud infrastructure.
+- 🔐 Worked on production AWS environments supporting **150+ cloud instances**, with a focus on automation, security and operational excellence.
+- 🏗️ Experienced with **AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions and Cloud Security**.
+- 🛡️ Hands-on exposure to **Wiz CSPM, Qualys, IAM, CloudWatch and infrastructure compliance**.
+- 🌍 Currently expanding my expertise in **Google Cloud Platform (ACE), Kubernetes and GenAI for Cloud Engineering**.
+- 🚀 Open to opportunities in **Cloud Engineering, DevSecOps, Platform Engineering and Site Reliability Engineering (SRE)**.
