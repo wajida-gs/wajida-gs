@@ -66,3 +66,21 @@ Building secure, scalable cloud infrastructure across AWS & GCP.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🚀 Featured Projects
+
+I'm currently migrating and expanding my portfolio with production-inspired cloud and DevSecOps projects.
+
+Here are the focus areas you'll find in my repositories:
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| ☁️ AWS Infrastructure | Production-inspired AWS infrastructure using Terraform | 🚧 In Progress |
+| ☁️ Google Cloud Platform (GCP) | Hands-on GCP projects covering Compute Engine, Cloud Storage, IAM, VPC, Cloud Run and Associate Cloud Engineer (ACE) preparation | 📚 Learning |
+| 🏗 Terraform Modules | Reusable Terraform modules following best practices | 🚧 In Progress |
+| ☸ Kubernetes Labs | Deployments, Services, Ingress, Helm and troubleshooting | 🚧 In Progress |
+| 🐳 Docker Projects | Dockerfiles, Compose, multi-stage builds and optimization | 🚧 In Progress |
+| 🚀 CI/CD Pipelines | Jenkins, GitHub Actions and deployment automation | 🚧 In Progress |
+| 🔐 DevSecOps Labs | IAM, Wiz, Qualys and cloud security best practices | 🚧 In Progress |
+| 🐍 Python Automation | AWS automation and cloud administration scripts | 🚧 In Progress |
+| 🤖 GenAI for DevOps | AI-powered DevOps and cloud engineering experiments | 📚 Learning |
